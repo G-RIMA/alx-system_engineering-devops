@@ -1,8 +1,10 @@
-<<<<<<< HEAD
+
 The shell permissions contain various scripts with shell permission commands
 =======
 # alx-system_engineering-devops
-Shell basics exercise
-THis file has shell basics to navigate through the shell
+Shell commands exersices that has information about the various commands in shell and how to use them.
+There are basic shell commands
+Shell permisions
+shell I/O redirections and filters
 
->>>>>>> e2a2bc6c0d23a08dca34ce30156654e8363e40ce
+
