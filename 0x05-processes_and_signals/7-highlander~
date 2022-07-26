@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+# displays to infinity and beyond indefinately
+# sleep 2 within each itertion
+# I am invisible when receiving a SIGTERM signal
+
+while true
+do
+    echo "TO infinity and beyond"
+    sleep 2
+    trap 'echo "I am invisible"' SIGTERM
+done
