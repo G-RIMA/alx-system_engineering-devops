@@ -1,4 +1,4 @@
-<img src=”![1_plHOAQRwXznq_EAo4ZzuHg](https://user-images.githubusercontent.com/53448883/201285692-fd1dbf95-0657-46a0-8951-50aedee38a6f.jpeg)" alt=”title”>
+<img ”![1_plHOAQRwXznq_EAo4ZzuHg](https://user-images.githubusercontent.com/53448883/201285692-fd1dbf95-0657-46a0-8951-50aedee38a6f.jpeg)">
 
 
 Postmortem
